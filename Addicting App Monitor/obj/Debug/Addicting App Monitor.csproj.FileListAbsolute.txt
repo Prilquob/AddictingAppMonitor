@@ -1,0 +1,9 @@
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\bin\Debug\Addicting App Monitor.exe.config
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\bin\Debug\Addicting App Monitor.exe
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\bin\Debug\Addicting App Monitor.pdb
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\obj\Debug\Addicting App Monitor.csprojResolveAssemblyReference.cache
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\obj\Debug\Addicting_App_Monitor.Form1.resources
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\obj\Debug\Addicting_App_Monitor.Properties.Resources.resources
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\obj\Debug\Addicting App Monitor.csproj.GenerateResource.Cache
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\obj\Debug\Addicting App Monitor.exe
+c:\users\prilquob\documents\visual studio 2013\Projects\Addicting App Monitor\Addicting App Monitor\obj\Debug\Addicting App Monitor.pdb
